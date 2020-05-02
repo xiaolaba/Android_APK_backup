@@ -9,7 +9,7 @@ some app, the apk has exact image for different android version, but some are di
 
 examples,  
 
-[phone_oscilloscope_xiaolaba.jpg](phone_oscilloscope_xiaolaba.jpg)  
+![phone_oscilloscope_xiaolaba.jpg](phone_oscilloscope_xiaolaba.jpg)  
 
 
 https://play.google.com/store/apps/details?id=com.ses.app.apkexport&hl=zh_TW  
