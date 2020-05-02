@@ -1,0 +1,17 @@
+ 磁碟區 C 中的磁碟沒有標籤。
+ 磁碟區序號:  9A23-FD2C
+
+ C:\Users\user0\Desktop\2019-11-11_HK_trip\DIY\2020-05-02 old phone oascope 的目錄
+
+2020-05-02  15:55    <DIR>          .
+2020-05-02  15:55    <DIR>          ..
+2020-05-02  14:40           140,630 APK Export 3.2.4 HTC 8088 Android 5.0.2.apk
+2020-04-28  14:45           140,630 APK Export 3.2.4 samsung GT-S5660 android 2.3.6.apk
+2020-05-02  15:38                 3 dosbaox.bat
+2020-05-02  15:40               281 fc_apk.bat
+2020-05-02  15:55                17 filelist.bat
+2020-05-02  15:55                 0 list.txt
+2020-04-28  14:46           235,275 Oscilloscope 5.0.3 samsung GT-S5660 android 2.3.6.apk
+2020-05-02  13:59           382,135 Oscilloscope.6.1.24 HTC 8088 Android 5.0.2.apk
+               8 個檔案         898,971 位元組
+               2 個目錄  167,493,857,280 位元組可用
