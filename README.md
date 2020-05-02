@@ -16,5 +16,12 @@ https://play.google.com/store/apps/details?id=com.nfx.noscpro&hl=zh_TW
 2020-04-28  14:46           235,275 Oscilloscope 5.0.3 samsung GT-S5660 android 2.3.6.apk  
 2020-05-02  13:59           382,135 Oscilloscope.6.1.24 HTC 8088 Android 5.0.2.apk  
 
+### fc_apk.bat  
+to compare apk or differences
+
+### filelist.bat  
+the output of result
+
+
 
 
