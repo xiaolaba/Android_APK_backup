@@ -21,7 +21,7 @@ https://play.google.com/store/apps/details?id=com.nfx.noscpro&hl=zh_TW
 
 Github recommened to use release for binary files.
 
-this is update date link ![https://github.com/xiaolaba/Android_APK_backup/releases/tag/1.0](https://github.com/xiaolaba/Android_APK_backup/releases/tag/1.0)  
+this is updated link as release bundled ![https://github.com/xiaolaba/Android_APK_backup/releases/tag/1.0](https://github.com/xiaolaba/Android_APK_backup/releases/tag/1.0)  
 
 
 
