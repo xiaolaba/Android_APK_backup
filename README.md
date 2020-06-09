@@ -19,11 +19,13 @@ https://play.google.com/store/apps/details?id=com.nfx.noscpro&hl=zh_TW
 
 ### apk dump 
 
-Github recommened to use release for binary files.
+2020-JUN-09, Github recommeneded to use release for binary files.
 
 this is updated link as release bundled ![https://github.com/xiaolaba/Android_APK_backup/releases/tag/1.0](https://github.com/xiaolaba/Android_APK_backup/releases/tag/1.0)  
 
 
+  
+  
 
 2020-05-02, 14:40, 140,630 APK_Export_3.2.4_HTC_8088_Android_5.0.2.apk  
 2020-04-28, 14:45, 140,630 APK_Export_3.2.4_samsung_GT-S5660_android_2.3.6.apk  
